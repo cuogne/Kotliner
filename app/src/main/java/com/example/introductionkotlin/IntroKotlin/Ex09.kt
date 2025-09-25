@@ -1,4 +1,4 @@
-package com.example.introductionkotlin
+package com.example.introductionkotlin.IntroKotlin
 
 /*
 Ví dụ: nếu bạn đã gọi hàm chứa các đối số có tên như sau:

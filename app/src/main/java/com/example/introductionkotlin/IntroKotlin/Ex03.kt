@@ -1,4 +1,4 @@
-package com.example.introductionkotlin
+package com.example.introductionkotlin.IntroKotlin
 
 fun main() {
     val numberOfAdults = "20" // or change "20" -> 20

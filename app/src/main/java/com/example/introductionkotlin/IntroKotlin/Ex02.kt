@@ -1,4 +1,4 @@
-package com.example.introductionkotlin
+package com.example.introductionkotlin.IntroKotlin
 
 fun main() {
     var discountPercentage: Int = 0

@@ -1,4 +1,4 @@
-package com.example.introductionkotlin
+package com.example.introductionkotlin.IntroKotlin
 
 fun main() {
     val firstUserEmailId = "user_one@gmail.com"
